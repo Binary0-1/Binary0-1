@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Binary0-1  
+# 👋 Hi there, I'm Prasan  
 ### 💻 Software Development Engineer | JavaScript • TypeScript • React • Node.js • Go • PHP • MySQL  
 
 🚀 Passionate about building scalable web applications, experimenting with backend systems, and writing clean, efficient code.  
