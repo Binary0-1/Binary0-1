@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi there, I'm Binary0-1  
+### 💻 Software Development Engineer | JavaScript • TypeScript • React • Node.js • Go • PHP • MySQL  
 
-<!--
-**Binary0-1/Binary0-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about building scalable web applications, experimenting with backend systems, and writing clean, efficient code.  
+🌱 Currently learning more about **system design & performance optimization**.  
+💬 Ask me about **JavaScript, Go, or API design**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+![Binary0-1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Binary0-1&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Binary0-1&layout=compact&theme=tokyonight)
+
+---
+
+### 🐾 A little humor to end with
+
+> "Code hard, nap harder."  
+
+![Funny Cat Coding Meme](https://i.imgur.com/JRzY3zI.gif)
+
+---
+
+⭐️ From [Binary0-1](https://github.com/Binary0-1)
