@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Prasan  
+# 👋 Hi there, I'm Binary0-1  
 ### 💻 Software Development Engineer | JavaScript • TypeScript • React • Node.js • Go • PHP • MySQL  
 
 🚀 Passionate about building scalable web applications, experimenting with backend systems, and writing clean, efficient code.  
@@ -34,7 +34,7 @@
 
 > "Code hard, nap harder."  
 
-![Coding Cat Meme]([https://media.tenor.com/7s7hxYv7Z0kAAAAC/coding-cat.gif](https://tenor.com/view/cat-gif-26024704))
+![Coding Cat Meme](https://media.tenor.com/7s7hxYv7Z0kAAAAC/coding-cat.gif)
 
 ---
 
