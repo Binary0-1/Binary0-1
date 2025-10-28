@@ -34,7 +34,7 @@
 
 > "Code hard, nap harder."  
 
-![Funny Cat Coding Meme](https://i.imgur.com/JRzY3zI.gif)
+![Coding Cat Meme](https://media.tenor.com/7s7hxYv7Z0kAAAAC/coding-cat.gif)
 
 ---
 
