@@ -34,7 +34,7 @@
 
 > "Code hard, nap harder."  
 
-![Coding Cat Meme](https://media.tenor.com/7s7hxYv7Z0kAAAAC/coding-cat.gif)
+![Coding Cat Meme]([https://media.tenor.com/7s7hxYv7Z0kAAAAC/coding-cat.gif](https://tenor.com/view/cat-gif-26024704))
 
 ---
 
