@@ -29,13 +29,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Binary0-1&layout=compact&theme=tokyonight)
 
 ---
-
-### 🐾 A little humor to end with
-
-> "Code hard, nap harder."  
-
-![Coding Cat Meme](https://media.tenor.com/7s7hxYv7Z0kAAAAC/coding-cat.gif)
-
----
-
-⭐️ From [Binary0-1](https://github.com/Binary0-1)
