@@ -21,11 +21,3 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-![Binary0-1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Binary0-1&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Binary0-1&layout=compact&theme=tokyonight)
-
----
